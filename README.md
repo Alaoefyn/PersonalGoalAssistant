@@ -6,12 +6,19 @@ It is ease-to-use and also compitable with many AndroidStudio versions. I didnt 
 In this app you can:
 
  Create Tasks
+ 
  Add Created Tasks Sub-Tasks
+ 
  Make Reminders for Tasks
+ 
  Review Old or Deleted Tasks
+ 
  Use Calendar to Create Dated-Tasks
+ 
  Change or Add Sub-Tasks and Main Tasks
+ 
  Can view Tasks on Chart
+ 
 
 
 App asks permissions for:
